@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Frameworks / Libraries:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,flutter,nodejs,flask,d3" />
