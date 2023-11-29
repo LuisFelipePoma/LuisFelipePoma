@@ -5,6 +5,7 @@
 <br><br>
 </div>
 
+
 - 🔭 I’m currently study on **UPC**
 
 - 🌱 I’m currently learning **Compiler Theory, Image Processing, Artificial Intelligence, etc**
@@ -47,6 +48,6 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luisfelipepoma&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuisFelipePoma&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
 
