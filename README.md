@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently study on **UPC**
 - ⚔ I’m in 7th cycle
-- 🌱 I just learned **Compiler Theory, Image Processing, Artificial Intelligence, etc**
+- 🌱 I just learned **Compiler Theory, Image Processing and Artificial Intelligence**
 - 🎢 I’m currently learning **React, TailwindCSS and stack MERN**
 
 <h3 align="left">Languages:</h3>
