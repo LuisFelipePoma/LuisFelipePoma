@@ -6,7 +6,7 @@
 </div>
 
 
-- 🔭 I’m currently study on **UPC**
+- 🔭 I’m currently studying Computer Science on **UPC**
 - ⚔ I’m in 7th cycle
 - 🌱 I just learned **Compiler Theory, Image Processing and Artificial Intelligence**
 - 🎢 I’m currently learning **Data Science Applications, Machine Learning and Software Engineering**
