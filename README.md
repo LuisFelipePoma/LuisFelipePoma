@@ -3,8 +3,6 @@
 <br>
 <!-- FEED -->
 
-
-
 <table> 
   <tr>
     <td>
@@ -39,17 +37,19 @@
 <!-- FRAMEWORKS -->
 <h3 align="left">Frameworks / Libraries:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <picture>
+    <source>
     <img src="https://skillicons.dev/icons?i=react,angular,flutter,nodejs,flask,d3,spring,sklearn,tensorflow,pytorch" />
-  </a>
+  </picture>
 </p>
 
 <!-- TOOLS -->
 <h3 align="left">Tools:</h3>
 <p align="center">
- 
-<img src="https://skillicons.dev/icons?i=git,docker,aws,linux,mongodb,mysql,vscode,visualstudio,figma,bash,postman" />
-  
+ <picture>
+	<source>
+	<img src="https://skillicons.dev/icons?i=git,docker,aws,linux,mongodb,mysql,vscode,visualstudio,figma,bash,postman" />
+ </picture>
 </p>
 <br/>
 
@@ -60,13 +60,22 @@
   <tr>
     <td>
 	<p align=center>
-		<img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
-		<img src="/metrics.plugin.languages.recent.svg" alt="Metrics" width="400">
+		<picture>
+			<source>
+			<img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
+		</picture>
+		<picture>
+			<source>
+			<img src="/metrics.plugin.languages.recent.svg" alt="Metrics" width="400">
+		</picture>
 	</p>
     </td>
     <td >
 	<p align=center>
-      		<img src="/metrics.plugin.code.svg" alt="Metrics" width="750">
+		<picture>
+			<source>
+      			<img src="/metrics.plugin.code.svg" alt="Metrics" width="750">
+		</picture>
 	</p>
     </td>
   </tr>
@@ -76,5 +85,8 @@
 
 <!-- CALENDAR -->
 <p align="center">
-	<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="550">
+	<picture>
+		<source>
+		<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="550">
+	</picture>
 </p>
