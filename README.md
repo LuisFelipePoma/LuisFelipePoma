@@ -3,27 +3,16 @@
 <br>
 <!-- FEED -->
 
-<table> 
-  <tr>
-    <td>
-      <ul>
-	<li> 🔭 I’m currently studying Computer Science on <b>UPC</b></li>
-	<li> ⚔ I’m in 7th cycle	</li>
-	<li>🎢 I’m currently learning <b>Data Science Applications, Machine Learning and Software Engineering</b></li>
-      </ul>
-    </br>
-      <p align=center>
-	<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=a3xpnru6loal4xlmxwvfq6u1t&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
-      </p>
-    </td>
-    <td >
-	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="450">
-     <p align=center>
-     	<img src="https://komarev.com/ghpvc/?username=LuisFelipePoma&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-      </p>
-    </td>
-  </tr>
-</table>
+<picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width = 350></picture>
+
+- 🔭 I’m currently studying Computer Science on **UPC**
+- ⚔ I’m in 7th cycle
+- 🎢 I’m currently learning **Data Science Applications, Machine Learning and Software Engineering**
+  
+![Actions Status](https://spotify-github-profile.vercel.app/api/view?uid=a3xpnru6loal4xlmxwvfq6u1t&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
+
+<img align="right" src="https://komarev.com/ghpvc/?username=LuisFelipePoma&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+
 
 <!-- FRAMEWORKS -->
 <h3 align="left">Frameworks / Libraries:</h3>
