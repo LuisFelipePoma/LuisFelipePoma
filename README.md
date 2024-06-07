@@ -19,6 +19,7 @@
     <td >
 	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="450">
      <p align=center>
+     	<img src="https://komarev.com/ghpvc/?username=LuisFelipePoma&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
       </p>
     </td>
   </tr>
