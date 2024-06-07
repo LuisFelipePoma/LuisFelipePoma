@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Felipe</h1>
 <h3 align="center">A passionate programmer from Peru</h3>
-<div align="center">
+<div align="justify">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<img src="/metrics.terminal.svg" width="500">
 <br><br>
 </div>
 
@@ -40,14 +41,24 @@
 <br/>
 
 
-<p align="center"><img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400"></p>
-<p align="center"><img src="/metrics.plugin.languages.recent.svg" alt="Metrics" width="400"></p>
-<br/><br/>
-  
-<p align="center" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipepoma&show_icons=true&locale=en&theme=gruvbox" alt="luisfelipepoma" />
+<p align="center">
+  <img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
+  <img src="/metrics.plugin.languages.recent.svg" alt="Metrics" width="400">
+</p>
+
+<img src="/metrics.plugin.code.svg" alt="Metrics" width="400">
+<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="550">
+
+
 <br/><br/>
 
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=a3xpnru6loal4xlmxwvfq6u1t&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+
+<p align="center" >
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfelipepoma&theme=gruvbox" alt="luisfelipepoma" />
 </p>
 <br/><br/>
