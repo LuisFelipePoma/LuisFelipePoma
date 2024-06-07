@@ -39,6 +39,11 @@
 </p>
 <br/>
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+<br/><br/>
+  
 <p align="center" >
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfelipepoma&show_icons=true&locale=en&theme=gruvbox" alt="luisfelipepoma" />
 <br/><br/>
