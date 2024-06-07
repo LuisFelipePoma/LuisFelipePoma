@@ -1,18 +1,21 @@
 name: Generate Metrics
 
-on: 
+on:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 0 * * *" # Esto ejecutará la acción todos los días a la medianoche (UTC)
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: production
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-          
+
       - name: Recently used
         uses: lowlighter/metrics@latest
         with:
@@ -24,7 +27,7 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
-          
+
       - name: Most used (with details)
         uses: lowlighter/metrics@latest
         with:
@@ -35,7 +38,7 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
-          
+
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -44,7 +47,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
+
       - name: Icons
         uses: lowlighter/metrics@latest
         with:
@@ -76,7 +79,7 @@ jobs:
           plugin_code: yes
           plugin_code_languages: javascript, typescript
           plugin_code_load: 400
-          
+
       - name: GitHub Skyline
         uses: lowlighter/metrics@latest
         with:
@@ -97,7 +100,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          
+
       - name: Example
         uses: lowlighter/metrics@latest
         with:
@@ -105,6 +108,3 @@ jobs:
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
-
-
-    environment: production
