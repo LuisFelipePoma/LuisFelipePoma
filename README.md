@@ -17,13 +17,13 @@
 <!-- FRAMEWORKS -->
 <h3 align="left">Frameworks / Libraries:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,flutter,nodejs,flask,d3,spring,sklearn,tensorflow,pytorch"/>
+    <img src="https://skillicons.dev/icons?i=react,angular,flutter,nodejs,flask,spring,sklearn,tensorflow,pytorch,mongodb,mysql,d3"/>
 </p>
 
 <!-- TOOLS -->
 <h3 align="left">Tools:</h3>
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=git,docker,aws,linux,mongodb,mysql,vscode,visualstudio,figma,bash,postman" />
+	<img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,visualstudio,figma,bash,postman" />
 </p>
 <br/>
 
