@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.1156672756243" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="403.1156672756243" y="0" width="25.953617744761594" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="429.06928502038585" y="0" width="17.588815728327738" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="446.6581007487136" y="0" width="13.341899251286392" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="402.4871777185131" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="402.4871777185131" y="0" width="25.913153979529955" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="428.40033169804315" y="0" width="17.603364647595342" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="446.0036963456385" y="0" width="13.996303654361544" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                             </div>
                             <small>
                                 <div>95.6 MB</div>
-                                <div>87.63%</div>
+                                <div>87.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 C
                             </div>
                             <small>
-                                <div>4.17 MB</div>
-                                <div>3.82%</div>
+                                <div>4.18 MB</div>
+                                <div>3.83%</div>
                             </small>
                         </div>
                     </section>
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>6.16 MB</div>
-                                <div>5.64%</div>
+                                <div>5.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -74,8 +74,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>3.17 MB</div>
-                                <div>2.9%</div>
+                                <div>3.33 MB</div>
+                                <div>3.04%</div>
                             </small>
                         </div>
                     </section>
