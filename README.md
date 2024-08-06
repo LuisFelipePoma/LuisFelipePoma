@@ -47,7 +47,11 @@
 </table>
 
 ---
+<div align="center">
+	<img src="https://streak-stats.demolab.com?user=LuisFelipePoma&theme=dark-minimalist&hide_border=true&stroke=EBEBEB&background=90%2C17140F00%2C2C5D6C">
+</div>
 
+---
 <!-- CALENDAR -->
 <p align="center">
 	<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="550">
