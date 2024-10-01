@@ -16,7 +16,7 @@
 <!-- FRAMEWORKS -->
 <h3 align="left">Frameworks / Libraries:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,flutter,nodejs,flask,spring,sklearn,tensorflow,pytorch,mongodb,mysql,d3"/>
+    <img src="https://skillicons.dev/icons?i=react,angular,flutter,nodejs,flask,spring,net,sklearn,tensorflow,pytorch,mongodb,mysql,d3"/>
 </p>
 
 <!-- TOOLS -->
