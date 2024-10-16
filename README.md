@@ -22,7 +22,7 @@
 <!-- TOOLS -->
 <h3 align="left">Tools:</h3>
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=git,docker,aws,azure,linux,bash,vscode,visualstudio,figma,postman" />
+	<img src="https://skillicons.dev/icons?i=git,docker,aws,azure,linux,windows,bash,vscode,visualstudio,figma,postman" />
 </p>
 <br/>
 
