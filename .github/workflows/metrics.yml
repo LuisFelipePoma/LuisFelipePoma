@@ -6,7 +6,7 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *" # Esto ejecutará la acción todos los días a la medianoche (UTC)
-
+    
 jobs:
   build:
     runs-on: ubuntu-latest
