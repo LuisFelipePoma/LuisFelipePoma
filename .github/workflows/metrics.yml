@@ -26,7 +26,9 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
+          plugin_languages_limit: 3         # Limitamos a 3 lenguajes
+          plugin_languages_events: 100      # Reducimos eventos a 100
+          plugin_languages_days: 7          # Reducimos a 7 días
 
       - name: Most used (with details)
         uses: lowlighter/metrics@latest
@@ -37,7 +39,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
+          plugin_languages_limit: 3         # Limitamos a 3 lenguajes
 
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
@@ -48,15 +50,15 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
- #     - name: Icons
- #       uses: lowlighter/metrics@latest
- #       with:
- #         filename: metrics.plugin.topics.icons.svg
- #         token: NOT_NEEDED
- #         base: ""
- #         plugin_topics: yes
- #         plugin_topics_limit: 0
- #         plugin_topics_mode: icons
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
 
       - name: Featured star list languages
         uses: lowlighter/metrics@latest
