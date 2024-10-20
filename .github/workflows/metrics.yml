@@ -108,3 +108,14 @@ jobs:
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
+          name: Detailed display
+          
+      - name: achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+
