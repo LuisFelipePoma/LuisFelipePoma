@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying Computer Science on **UPC**
 - ⚔ I’m in 8th cycle
 - 🎢 I’m currently learning **Data Science Applications, Machine Learning and Complex Networks**
-- [More](https://beta-metrics.lecoq.io/insights/LuisFelipePoma)
+- <a href="https://beta-metrics.lecoq.io/insights/LuisFelipePoma" target="_blank">More info</a>
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=a3xpnru6loal4xlmxwvfq6u1t&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
