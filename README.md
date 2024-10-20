@@ -66,7 +66,9 @@
     </td>
   </tr>
 </table>
+
 ---
+
 <!-- CALENDAR -->
 <p align="center">
 	<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="550">
