@@ -52,8 +52,22 @@
 </div>
 
 ---
+<table>
+  <tr>
+    <td>
+	<p align=center>
+		<img src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="550">
+	</p>
+    </td>
+    <td >
+	<p align=center>
+		<img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="550">
+	</p>
+    </td>
+  </tr>
+</table>
+---
 <!-- CALENDAR -->
 <p align="center">
-	<img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="550">
 	<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="550">
 </p>
