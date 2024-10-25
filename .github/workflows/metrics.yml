@@ -25,16 +25,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - name: Icons
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-
       - name: JavaScript or TypeScript snippet of the day
         uses: lowlighter/metrics@latest
         with:
