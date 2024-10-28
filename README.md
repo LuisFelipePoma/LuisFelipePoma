@@ -30,12 +30,11 @@
 <!-- MORE LANGUAGES -->
 <!-- CODE SNIPPET -->
 
-<table>
+<table align=center>
   <tr>
     <td>
 	<p align=center>
 		<img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
-		<img src="/metrics.plugin.languages.recent.svg" alt="Metrics" width="400">
 	</p>
     </td>
     <td >
