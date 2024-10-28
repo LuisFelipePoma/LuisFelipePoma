@@ -32,8 +32,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_code: yes
-          plugin_code_languages: javascript, typescript
+          plugin_code_languages: javascript, typescript, astro, python, java
+          plugin_code_visibility: public
           plugin_code_load: 400
+
           
       - name: Most used (with details)
         uses: lowlighter/metrics@latest
