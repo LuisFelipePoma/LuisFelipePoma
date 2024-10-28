@@ -32,7 +32,7 @@
 
 <table align=center>
   <tr>
-    <td width="350px">
+    <td width="400px">
 	<p align=center>
 		<img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
 	</p>
