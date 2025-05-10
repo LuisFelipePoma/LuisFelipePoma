@@ -5,7 +5,6 @@
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width = 350>
 
 - 🔭 I’m currently studying Computer Science on **UPC**
-- ⚔ I’m in 8th cycle
 - 🎢 I’m currently learning **Data Science Applications, Machine Learning and Complex Networks**
 - <a href="https://beta-metrics.lecoq.io/insights/LuisFelipePoma" target="_blank">More info</a>
   
