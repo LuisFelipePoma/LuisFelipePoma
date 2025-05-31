@@ -61,13 +61,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Talison-Dashboard-Front</span>
-                                <div class="bar" style="width: 64.47200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">81%</span>
+                                <div class="bar" style="width: 59.47200000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">74%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Talison-Dashboard-Server</span>
-                                <div class="bar" style="width: 15.527999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 14.328000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">diamond-app</span>
+                                <div class="bar" style="width: 5.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Diamond_API</span>
+                                <div class="bar" style="width: 0.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -76,17 +86,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 64.47200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">81%</span>
+                                <div class="bar" style="width: 65.36%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">82%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 15.216000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 14.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Java</span>
+                                <div class="bar" style="width: 0.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 0.312%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
