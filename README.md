@@ -5,7 +5,7 @@
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Animated GIF" />
     </td>
     <!-- Spotify y Contador a la derecha -->
-    <td align="right" width="50%">
+    <td align="left" width="50%">
       <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=a3xpnru6loal4xlmxwvfq6u1t&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
       <br><br>
       <img src="https://komarev.com/ghpvc/?username=LuisFelipePoma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
