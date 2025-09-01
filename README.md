@@ -3,10 +3,6 @@
 <!-- FEED -->
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width = 350>
-
-- 🔭 I’m currently studying Computer Science on **UPC**
-- 🎢 I’m currently learning **Data Science Applications, Machine Learning and Complex Networks**
-- <a href="https://beta-metrics.lecoq.io/insights/LuisFelipePoma" target="_blank">More info</a>
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=a3xpnru6loal4xlmxwvfq6u1t&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
