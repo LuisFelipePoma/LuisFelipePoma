@@ -15,11 +15,6 @@
 
 ---
 
-### 👨‍💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,cpp,cs,typescript,python,java,dart" />
-</p>
-
 ### 🚀 Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,astro,tailwind,threejs,flutter,nestjs,fastapi,spring,dotnet,tensorflow,pytorch,postgresql,mongodb,redis" />
