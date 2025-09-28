@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Languages
+### 👨‍💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,cpp,cs,typescript,python,java,dart" />
 </p>
