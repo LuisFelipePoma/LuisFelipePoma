@@ -22,12 +22,12 @@
 
 ### 🚀 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,astro,tailwind,flutter,nestjs,fastapi,spring,dotnet,tensorflow,pytorch,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=react,angular,astro,tailwind,threejs,flutter,nestjs,fastapi,spring,dotnet,tensorflow,pytorch,postgresql,mongodb,redis" />
 </p>
 
 ### 🛠 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure,linux,windows,bash,vscode,visualstudio,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure,vercel,linux,windows,bash,vscode,visualstudio,figma,postman" />
 </p>
 
 ---
