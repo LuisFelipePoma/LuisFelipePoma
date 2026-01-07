@@ -17,7 +17,7 @@
 
 ### 🚀 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,astro,tailwind,threejs,flutter,nestjs,fastapi,spring,dotnet,tensorflow,pytorch,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=react,angular,astro,tailwind,threejs,flutter,fastapi,spring,dotnet,tensorflow,pytorch,postgresql,mongodb,redis" />
 </p>
 
 ### 🛠 Tools
