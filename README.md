@@ -41,9 +41,11 @@
 </table>
 
 ---
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuisFelipePoma&theme=dark-minimalist&hide_border=true&stroke=EBEBEB&background=90%2C17140F00%2C2C5D6C" alt="GitHub Streak" />
+  <a href="https://streak-stats.demolab.com?user=LuisFelipePoma&theme=shades-of-purple&hide_border=true&border_radius=10&background=10%2C0E5D78%2C1C1E3E">
+    <img src="https://streak-stats.demolab.com?user=LuisFelipePoma&theme=shades-of-purple&hide_border=true&border_radius=10&background=10%2C0E5D78%2C1C1E3E" alt="GitHub Streak" />
+  </a>
+
 </div>
 
 ---
